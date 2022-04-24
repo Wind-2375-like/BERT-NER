@@ -1,0 +1,6 @@
+.vscode/
+input/
+*.bin
+*.csv
+*.jpg
+*__pycache__
